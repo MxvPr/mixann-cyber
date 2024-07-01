@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /about
+Disallow: /auth
+Disallow: /artistes
+Disallow: /contact
+Disallow: /privacy
+Disallow: /about
